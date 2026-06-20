@@ -7,7 +7,7 @@ Klasik bir portfolyo sayfası yerine; ilgi alanlarımı, şu anda nelerle ilgile
 
 ## Canlı Demo
 
-Yakında / GitHub Pages linki buraya eklenecek.
+[Github Pages Linki](https://halilefekutlu.github.io/halil-digital-journey/)
 
 ## Proje Hakkında
 
