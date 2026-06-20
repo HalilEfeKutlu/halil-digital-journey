@@ -63,7 +63,7 @@ npm run dev
 Tarayıcıda açmak için:
 
 ```bash
-[Site Linki](https://halilefekutlu.github.io/halil-digital-journey/)
+https://halilefekutlu.github.io/halil-digital-journey/
 ```
 
 ## Build Alma
