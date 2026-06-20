@@ -7,7 +7,7 @@ const geistMono = Geist_Mono({
     subsets: ['latin'],
 });
 export const metadata = {
-    title: 'Halil — Portfolio',
+    title: 'Halil — Digital Journey',
     description: 'Halil — Bilgisayar Mühendisliği öğrencisi. Kod, donanım, oyunlar ve kişisel hedefler üzerine dinamik portfolio sitesi.',
     generator: 'v0.app',
     icons: {
